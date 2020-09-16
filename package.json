@@ -1,0 +1,33 @@
+{
+  "name": "chat-fullstack-javascript",
+  "version": "1.0.0",
+  "description": "is a simple chat that was built with entire javascript technologies, for the frontend, backend and database.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.6.11",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "npm-check-updates": "^3.1.21"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaztTech/chat-javascript-fullstack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FaztTech/chat-javascript-fullstack/issues"
+  },
+  "homepage": "https://github.com/FaztTech/chat-javascript-fullstack#readme"
+}
